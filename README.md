@@ -4,8 +4,8 @@ I'm a begginer tester
 
 My SV
 
-Language and tools
-
+### Language and tools
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 Testing documentation
 
 For communication
