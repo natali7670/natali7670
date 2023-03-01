@@ -14,4 +14,6 @@ My SV
 
 Testing documentation
 
-For communication
+### For communication
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=25A2E0)](https://t.me/N7670)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-090909?style=for-the-badge&logo=Whatsapp&logoColor=59F878)](https://wa.me/qr/3UIZTM6YNULVI1)
