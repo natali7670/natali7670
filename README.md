@@ -13,7 +13,9 @@ My SV
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 
 ### Testing documentation
-![Checklists](https://github.com/natali7670/natali7670/blob/main/doc/Git%20check%20list.xlsx)
+- ![Checklists](https://github.com/natali7670/natali7670/blob/main/doc/Git%20check%20list.xlsx)
+- ![Test-cases](https://github.com/natali7670/natali7670/blob/main/doc/Git%20test%20cases.xlsx)
+- ![Test-suite](https://github.com/natali7670/natali7670/blob/main/doc/Git%20test%20suite.xlsx)
 
 ### For communication
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=25A2E0)](https://t.me/N7670)
