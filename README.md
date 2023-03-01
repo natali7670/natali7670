@@ -13,7 +13,7 @@ My SV
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 
 ### Testing documentation
-[![Checklists and Test-Suites](https://docs.google.com/spreadsheets/d/16dM1MkA8Ffha4pUq7xS2lJ0WZvo4xwWw/edit?usp=share_link&ouid=111274864958305657991&rtpof=true&sd=true)]
+[![Checklists](doc/Git check list.xlsx)]
 
 ### For communication
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=25A2E0)](https://t.me/N7670)
